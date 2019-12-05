@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensors_Shake</string>
+    <string name="api_map_key">AIzaSyAXfiKPnlns11MiwBoDIA40Z5XBqxZ8UB4</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sensor_list">Sensor List:</string>
+</resources>
